@@ -7,7 +7,9 @@ at/itkollegimst/studentenverwaltung/repositories/StudentJPARepo.class
 at/itkollegimst/studentenverwaltung/controller/ExceptionController.class
 at/itkollegimst/studentenverwaltung/controller/StudentRestController.class
 at/itkollegimst/studentenverwaltung/services/StudentenServiceImpl.class
+at/itkollegimst/studentenverwaltung/config/WebSecurityConfig.class
 at/itkollegimst/studentenverwaltung/exceptions/FormValidierungExceptionDTO.class
+at/itkollegimst/studentenverwaltung/config/MvcConfig.class
 at/itkollegimst/studentenverwaltung/exceptions/StudentValidierungFehlgeschlagen.class
 at/itkollegimst/studentenverwaltung/controller/StudentThymeleafController.class
 at/itkollegimst/studentenverwaltung/services/StudentenService.class
